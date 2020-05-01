@@ -37,9 +37,12 @@ end
 
 # Define your play method below
 def play(board)
+<<<<<<< HEAD
   ii=0
   while(ii<9)
   turn(board)
   ii+=1
 end
+=======
+>>>>>>> 1fa26e057efda04eec7698f4d73759d98e67e381
 end
